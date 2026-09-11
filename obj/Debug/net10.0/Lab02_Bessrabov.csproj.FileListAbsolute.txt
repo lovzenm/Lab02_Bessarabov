@@ -12,3 +12,4 @@ C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\refint\Lab02_Bes
 C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.pdb
 C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.genruntimeconfig.cache
 C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\ref\Lab02_Bessrabov.dll
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.sourcelink.json
