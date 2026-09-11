@@ -1,0 +1,14 @@
+C:\Users\Student_13\Documents\Lab02_Bessrabov\bin\Debug\net10.0\Lab02_Bessrabov.exe
+C:\Users\Student_13\Documents\Lab02_Bessrabov\bin\Debug\net10.0\Lab02_Bessrabov.deps.json
+C:\Users\Student_13\Documents\Lab02_Bessrabov\bin\Debug\net10.0\Lab02_Bessrabov.runtimeconfig.json
+C:\Users\Student_13\Documents\Lab02_Bessrabov\bin\Debug\net10.0\Lab02_Bessrabov.dll
+C:\Users\Student_13\Documents\Lab02_Bessrabov\bin\Debug\net10.0\Lab02_Bessrabov.pdb
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.AssemblyInfoInputs.cache
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.AssemblyInfo.cs
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.csproj.CoreCompileInputs.cache
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.dll
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\refint\Lab02_Bessrabov.dll
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.pdb
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\Lab02_Bessrabov.genruntimeconfig.cache
+C:\Users\Student_13\Documents\Lab02_Bessrabov\obj\Debug\net10.0\ref\Lab02_Bessrabov.dll
